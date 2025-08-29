@@ -14,11 +14,6 @@ Tkinter arayüzlü bir **kalp hastalığı riski tahmin** uygulaması. Veri ön 
 - Tahmin sonrası **risk seviyesi** ve **yüzde skoru**
 
 
-## 🖼️ Ekran Görüntüsü
-
-<img width="493" height="521" alt="k1" src="https://github.com/user-attachments/assets/3bd3dbc3-3075-491b-a3c6-e2c95d963ca1" />
-<img width="620" height="655" alt="k2" src="https://github.com/user-attachments/assets/edb94e4a-fa30-49b7-8fee-33dac47ed49a" />
-
 
 📂 Proje Yapısı
 ├─ app.py # Tkinter arayüzü ve model
@@ -48,6 +43,18 @@ Not: heart.csv kolon adlarının (Age, Sex, ChestPainType, ... , HeartDisease) k
 - Karar Ağaçları     – ~%31.2 – Hızlı     – Yorumlaması kolay
 Bu sayılar örnek/demodur; veri ve tohum değerine göre değişebilir.
 
+
+## 🖼️ Ekran Görüntüsü
+
+<img width="493" height="521" alt="k1" src="https://github.com/user-attachments/assets/3bd3dbc3-3075-491b-a3c6-e2c95d963ca1" />
+<img width="620" height="655" alt="k2" src="https://github.com/user-attachments/assets/edb94e4a-fa30-49b7-8fee-33dac47ed49a" />
+<img width="397" height="357" alt="k3" src="https://github.com/user-attachments/assets/1fd3d4b3-74b4-4226-b319-fbde585b4577" />
+<img width="352" height="317" alt="k4" src="https://github.com/user-attachments/assets/5641be01-3147-488c-a929-c00197ee8d4d" />
+<img width="388" height="342" alt="k5" src="https://github.com/user-attachments/assets/db0e3020-c0c8-4cb0-b41c-3ca568dadd4f" />
+
+
 🔐 Veri ve Gizlilik
 
 Bu depoda örnek veri paylaşılmamıştır. Kendi verinizi /data/heart.csv olarak ekleyin ve veri lisansını/mahremiyetini kontrol edin.
+
+
